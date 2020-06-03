@@ -1,3 +1,3 @@
-* OBGO
+# OBGO
 
 Bienvenu
